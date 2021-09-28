@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = mdecaritat@gmail.com
+	name = maximedecaritat
